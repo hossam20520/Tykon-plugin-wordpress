@@ -1,0 +1,17 @@
+{
+    "name": "hossam/tykon-plugin",
+    "description": "Tykon Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "hossam",
+            "email": "hossamhassan889@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./Inc"}
+    }
+}
